@@ -5,6 +5,6 @@ CPE Code für Systemnahe Programmierung mit C. Folgende Reihenfolge beim Testen 
 
 2 **prozesse und fifo-pipe**: in ASIT4 erledigt
 
-3 **pointer**: Grundlegendes C Konzept - macht glücklich, fuck KI
+3 **pointer**: Grundlegendes C Konzept 
 
 4 **IO**: Operationen auf Dateien und Streams 
